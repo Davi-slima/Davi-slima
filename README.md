@@ -4,7 +4,7 @@
   <img height="180em" width=100% src="https://github-readme-streak-stats.herokuapp.com?user=Davi-slima&theme=dark&hide_border=true)" />
   <a href="https://github.com/Davi-slima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLima&layout=compact&langs_count=16&theme=dark"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLima&layout=compact&langs_count=16&theme=dark"/>
  </p>
 
 ### 🛠 &nbsp;Tech Stack
